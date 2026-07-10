@@ -1,5 +1,7 @@
 An interactive and powerful dashboard for analyzing time-series data, designed to help users visually and dynamically explore patterns, trends, and fluctuations in real time.
-🚀 Features :
+
+ 
+Features :
 
 1. Interactive Visualizations
 2. Dynamic charts with support for zoom, pan, and hover, allowing precise inspection of data points.
@@ -10,7 +12,7 @@ An interactive and powerful dashboard for analyzing time-series data, designed t
 7. Statistical Insights
 
 
-🛠️ Built With : 
+Built With : 
 
   Python
    | Interactive Dashboard Framework
