@@ -12,6 +12,6 @@ An interactive and powerful dashboard for analyzing time-series data, designed t
 
 🛠️ Built With : 
 
-  Python
-  Interactive Dashboard Framework
-  Charting / Visualization Libraries
+  Python|
+   | Interactive Dashboard Framework
+   | Visualization Libraries
